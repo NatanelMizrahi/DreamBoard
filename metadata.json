@@ -1,0 +1,5 @@
+{
+  "name": "DreamBoard AI",
+  "description": "A dynamic vision board generator that uses Google Gemini to create high-quality, inspiring visualizations of your interests.",
+  "requestFramePermissions": []
+}
